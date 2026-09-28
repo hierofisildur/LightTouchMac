@@ -1,3 +1,4 @@
+This is a fork of samhenrigold's 'LightTouchMac' focused on expanding compatibility to Intel. 
 # LightTouchMac
 
 Built with use from agentic coding products.
