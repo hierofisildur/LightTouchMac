@@ -1,5 +1,5 @@
 This is a fork of samhenrigold's 'LightTouchMac' focused on expanding compatibility to Intel. 
-# LightTouchMac
+# LightTouchMac For Intel
 
 Built with use from agentic coding products.
 
